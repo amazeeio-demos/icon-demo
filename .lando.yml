@@ -1,4 +1,4 @@
-name: drupal9-example-simple
+name: icon-demo
 recipe: lagoon
 config:
   flavor: drupal
